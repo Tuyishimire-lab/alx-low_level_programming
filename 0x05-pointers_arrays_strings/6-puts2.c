@@ -1,26 +1,21 @@
 #include "holberton.h"
 
 /**
- * puts_half - prints half of a string
+ * puts2 - print alternating chars of string
  * @str: string
  * Return: void
  */
 
-void puts_half(char *str)
+void puts2(char *str)
 {
-	int i, j, max;
+	int i;
 
 	i = 0;
 	while (str[i] != '\0')
 	{
+		if (i % 2 == 0)
+			_putchar(str[i]);
 		i++;
-	}
-	max = i;
-	j = max / 2;
-	while (j <= max)
-	{
-		_putchar(str[j]);
-		j++;
 	}
 	_putchar('\n');
 }
