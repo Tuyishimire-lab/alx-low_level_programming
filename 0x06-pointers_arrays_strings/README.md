@@ -14,8 +14,3 @@
 
 7.function that encodes a string into 1337 (leet)
 
-8.function that encodes a string using rot13
-
-9.function that prints an integer
-
-10.modify set code so program prints a[2] = 98 under certain constraints
