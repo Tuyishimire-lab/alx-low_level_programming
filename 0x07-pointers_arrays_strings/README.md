@@ -10,7 +10,7 @@
 
 5.a function that locates a substring (strstr)
 
-6.a function that prints the chessboard
+7.a function that prints the chessboard
 
-7.a function that prints the sum of the two diagonals of a square matrix of integers
+8.a function that prints the sum of the two diagonals of a square matrix of integers
 
