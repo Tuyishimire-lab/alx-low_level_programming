@@ -65,3 +65,4 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	str[i + j] = '\0';
 	return (str);
 }
+
