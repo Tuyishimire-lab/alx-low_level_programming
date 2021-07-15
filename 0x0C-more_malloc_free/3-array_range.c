@@ -8,9 +8,9 @@
  * Return: pointer to array
  */
 
-int * array_range(int min, int max)
+int *array_range(int min, int max)
 {
-	int * ptr;
+	int *ptr;
 	int i;
 	int n = (max - min + 1);
 
